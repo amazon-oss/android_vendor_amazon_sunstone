@@ -634,6 +634,7 @@ PRODUCT_PACKAGES += \
     libstagefrighthw \
     libtensorflowlite_c-v30 \
     libthha \
+    libui-v30 \
     libvc1dec_sa.ca7 \
     libvcodec_oal \
     libvcodec_utility \
